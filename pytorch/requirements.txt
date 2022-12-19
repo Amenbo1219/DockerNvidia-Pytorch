@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+jupyterlab
+matplotlib
+scipy
+numpy
+scikit-image
+scilit-learn
+pandas
+opencv-contrib-python
