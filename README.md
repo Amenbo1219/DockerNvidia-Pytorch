@@ -1,1 +1,1 @@
-# DockerNvidia-Pytorch
+# NvidiaDocker-Pytorch
